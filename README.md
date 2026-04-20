@@ -15,4 +15,4 @@ Além disso, o projeto inclui a criação de prompts reutilizáveis, evidenciand
 Este trabalho demonstra não apenas o domínio de conceitos básicos de educação financeira, mas também habilidades em organização da informação, pensamento crítico e uso estratégico de ferramentas de inteligência artificial aplicadas ao estudo.
 
 
-link: https://notebooklm.google.com/notebook/e937b6a0-e3a7-4a67-9243-29bacf6f3b99
+link: https://notebooklm.google.com/notebook/4af5a523-c0ec-46ee-b541-84ed3706ea09?authuser=1
